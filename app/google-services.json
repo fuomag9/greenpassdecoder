@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "867155847455",
+    "project_id": "green-pass-decoder",
+    "storage_bucket": "green-pass-decoder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867155847455:android:1e00fb9f0949e81b0ae82a",
+        "android_client_info": {
+          "package_name": "com.fuomag9.greenpassdecoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867155847455-5li323tjma23ql4djvvuj63tsa6irdfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fuomag9.greenpassdecoder",
+            "certificate_hash": "324bb11a724fb4a4c5e758a7be50a6217a51577a"
+          }
+        },
+        {
+          "client_id": "867155847455-givo99bmp91vr3hhqd8ce74s2cj3ph1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28_26vkx9DOwQ7nvSvLe-wtWq-1JfjqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867155847455-givo99bmp91vr3hhqd8ce74s2cj3ph1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
